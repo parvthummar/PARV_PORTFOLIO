@@ -43,7 +43,6 @@ export default function HeroSection() {
       <div className="hero-right">
         <div className="hero-image">
           <img src={personal.avatar} alt={personal.name} />
-          <div className="hero-image-badge">AI</div>
         </div>
       </div>
     </div>

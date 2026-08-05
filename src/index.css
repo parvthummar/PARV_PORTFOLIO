@@ -420,22 +420,6 @@ p {
   object-fit: cover;
 }
 
-.hero-image-badge {
-  position: absolute;
-  bottom: -8px;
-  right: -8px;
-  width: 56px;
-  height: 56px;
-  background: var(--yellow);
-  border: var(--border);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Press Start 2P', monospace;
-  font-size: 0.6rem;
-  font-weight: 700;
-}
-
 /* --- ABOUT SECTION (My Story + What I Do) --- */
 .about-split {
   display: grid;
